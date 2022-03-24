@@ -1,0 +1,19 @@
+.img-container img{
+    height: 200px;
+    width: 200px;
+}
+.card{
+    border: 2px solid gray;
+    border-radius: 7px;
+    row-gap: 5px;
+    margin: 25px;
+    padding: 9px;
+}
+.add-to-cart{
+
+flex-direction: column;
+justify-content: space-between;
+}
+.icon{
+    font-size: 1.5rem;
+}
